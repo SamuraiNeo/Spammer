@@ -4,7 +4,7 @@ fromaddress = "fromaddress@gmail.com"
 toaddress = "toaddress@gmail.com"
 username = "yourgmail username"
 password = "yourgmail password"
-message = """From:CodeScripter 
+message = """From:Neo 
 ...text here...
 """
 
